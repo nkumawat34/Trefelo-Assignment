@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Provider store={store}>
-      <Router>
+      <Router basename="/Trefelo-Assignment">
       <Header/>
     
         <Routes>
