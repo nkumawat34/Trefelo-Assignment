@@ -18,7 +18,7 @@ export default function Header() {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
         <li class="nav-item">
-          <Link to="/" class="nav-link active" aria-current="page" href="#">Home</Link>
+          <Link to="/Trefelo-Assignment" class="nav-link active" aria-current="page" href="#">Home</Link>
         </li>
         
       </ul>
