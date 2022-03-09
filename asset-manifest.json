@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Trefelo-Assignment/static/css/main.073c9b0a.css",
+    "main.js": "/Trefelo-Assignment/static/js/main.b96dbd2e.js",
+    "static/js/787.0e83442f.chunk.js": "/Trefelo-Assignment/static/js/787.0e83442f.chunk.js",
+    "static/media/logo.svg": "/Trefelo-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Trefelo-Assignment/index.html",
+    "main.073c9b0a.css.map": "/Trefelo-Assignment/static/css/main.073c9b0a.css.map",
+    "main.b96dbd2e.js.map": "/Trefelo-Assignment/static/js/main.b96dbd2e.js.map",
+    "787.0e83442f.chunk.js.map": "/Trefelo-Assignment/static/js/787.0e83442f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b96dbd2e.js"
+  ]
+}
