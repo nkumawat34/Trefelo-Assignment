@@ -14,7 +14,7 @@ function App() {
       <Header/>
     
         <Routes>
-        <Route exact path="/Trefelo-Assignment" element={<Items/>}/>
+        <Route exact path="/" element={<Items/>}/>
           <Route exact path="/cart" element={<CartProducts/>}/>
     
     </Routes>
